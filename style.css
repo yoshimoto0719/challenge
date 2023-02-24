@@ -4,6 +4,16 @@
   box-sizing: border-box;
 }
 
+header {
+    height: 70px;                  /* 高さ指定 */
+    width: 100%;
+    background-color: #EC715F;   /* 背景色指定 */
+}
+
 a {
   text-decoration: none;
+}
+
+li {
+  font-size: 16px;
 }
